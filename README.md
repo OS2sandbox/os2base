@@ -1,4 +1,4 @@
-# 📱 sandbox-openclient
+# 📱 openclient-poc
 Linux configuration management, OS deployment and observability based on mature Open Source standard solutions.
 
 #### Executive summary in Danish 🇩🇰:
