@@ -29,17 +29,30 @@
   </a>
 </p>
 
+<p align="center">
+  <br />
+  <strong>📚 Vil du vide mere?</strong>
+  <br />
+  <a href="docs/architecture/"><strong>Se projektets dokumentation →</strong></a>
+</p>
+
 <br>
 
 ---
 
-# Video: Getting Started with Bootable Containers 
-[![Bootc: Getting Started](https://img.youtube.com/vi/bf1xqjLeA9M/maxresdefault.jpg)](https://www.youtube.com/watch?v=bf1xqjLeA9M)
+## Getting Started with Bootable Containers 
+<a href="https://www.youtube.com/watch?v=bf1xqjLeA9M" target="_blank" rel="noopener">
+  <img src="https://img.youtube.com/vi/bf1xqjLeA9M/maxresdefault.jpg" alt="Bootc: Getting Started" style="max-width: 480px; width: 100%; height: auto;" />
+</a>
+
 > “I believe that bootable containers will change how we think about the IT infrastructure of the future.”
 >
 > In this video, Valentin Rothberg provides a concise overview of what bootable containers are, the technical concepts and architecture, as well as the value they provide. Bootable Containers take the same model we know and love from containerized applications and bring that to operating systems. Container tools like podman, docker, etc can now build, ship, and run operating systems just like applications. Bootc is the tool that brings containers to hardware.
 
 <br><br><br>
+---
+<br><br><br>
+
 
 ### Kernebegreber
 
