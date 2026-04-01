@@ -33,7 +33,7 @@
   <br />
   <strong>📚 Vil du vide mere?</strong>
   <br />
-  <a href="docs/architecture/"><strong>Se projektets dokumentation →</strong></a>
+  <a href="docs/"><strong>Se projektets dokumentation →</strong></a>
 </p>
 
 <br>
