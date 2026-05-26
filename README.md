@@ -16,7 +16,7 @@
 
 | 🇩🇰 Dansk | 🇬🇧 English |
 | :--- | :--- |
-| _Nornnet leverer en professionel, moderne model for enheds håndtering ved at anvende eksisterende open-source standarder og metoder til skalerbar og sikker drift.._<br><br>👉 [**Læs mere**](#kernebegreber) | _Nornnet delivers a modern device management model, utilizing existing open-source standards and methods that ensures scalable and secure operations.._ <br><br>👉 [**Read more**](#key-concepts) |
+| _Os2Base leverer en professionel, moderne model for enheds håndtering ved at anvende eksisterende open-source standarder og metoder til skalerbar og sikker drift.._<br><br>👉 [**Læs mere**](#kernebegreber) | _Os2Base delivers a modern device management model, utilizing existing open-source standards and methods that ensures scalable and secure operations.._ <br><br>👉 [**Read more**](#key-concepts) |
 
 <p align="center">
   <br />
