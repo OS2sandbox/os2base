@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🌳 os2nornnet</h1>
+  <h1 align="center">🌳 os2base</h1>
   <p align="center">
     <strong>Device Management via GitOps</strong>
     <br />
